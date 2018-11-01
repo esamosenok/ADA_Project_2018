@@ -9,7 +9,7 @@ This may sound as quite a generic description, but we would rather not to restri
 1. There are lots of different dimensions which could be used to analyse/slice the data: dates when the product was added and last modified, produced country, brand, categories (e.g. snack, dessert), country / store where the product was purchased, size and weight of the product, amount of fat, sugar, vitamins, chemicals, ingredients as text etc
 We will explore the dimensions above and relate some of those to each other or such generic metrics as country (producer or consumer) GDP, life expectancy (vitamins, salt, sugar, other chemicals), expore which country/store is the biggest produce/consumer of product by brand/ingredients etc.
 2. Explore the quality of the data, find and estimate inconsistencies (e.g. accuracy of the text description)
-3. Finally, there are images available for each product, so we will try to analyse those using Deep Learning techniques (CNN) and relate to some of deminsions avialable in the dataset.
+3. Finally, there are images available for each product, so we will try to analyse those using Deep Learning techniques (CNN) and relate to some of the deminsions avialable in the dataset.
 
 # Dataset
 Open Food Facts database contains information about. The dataset contains the data on food products from around the world. For each item, the database stores its generic name, quantity, type of packaging, brand, category, manufacturing or processing locations, countries and stores where the product is sold, list of ingredients, any traces. 
