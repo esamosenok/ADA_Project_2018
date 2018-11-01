@@ -17,7 +17,7 @@ https://world.openfoodfacts.org
 
 # A list of internal milestones up until project milestone 2
 1. Try both Spark and Pandas and choose the better option
-2. Explore the data (slice and dice) to have better ideas about what kind of detailed analysis we are mostly interested in
+2. Explore the data (slice and dice) to have better ideas on what kind of detailed analysis we are mostly interested in
 3. Ideally, we would like to try to apply Machine Learning to analyze the images (CNN) and relate the same to some results obtained by statistical analysis of the data. This is not exactly clear on this stage how/if this could be done, so the next step is to check the feasibility of the approach.
 
 # Questions for TAa
