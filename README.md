@@ -1,5 +1,5 @@
 # Title
-cs_team_beta_hw2 Project
+__cs_team_beta_hw2__ Project
 
 # Abstract
 Our main goal is to explore Open Food Facts database, apply the knowledge of data analysis techniques and best practices acquired during attending Applied Data Analysis course at EPFL in Lausanne in Autumn 2018 and figure out meaninful/insighful relationships between different dimensions used to categorize the data or externals metrics.
