@@ -12,7 +12,7 @@ We will explore the dimensions above and relate some of those to each other or s
 3. Finally, there are images available for each product, so we will try to analyse those using Deep Learning techniques (CNN) and relate to some of the deminsions avialable in the dataset.
 
 # Dataset
-Open Food Facts database contains information about. The dataset contains the data on food products from around the world. For each item, the database stores its generic name, quantity, type of packaging, brand, category, manufacturing or processing locations, countries and stores where the product is sold, list of ingredients, any traces. 
+Open Food Facts database contains the information on food products from around the world. For each item, the database stores its generic name, quantity, type of packaging, brand, category, manufacturing or processing locations, countries and stores where the product is sold, list of ingredients, any traces. 
 https://world.openfoodfacts.org
 
 # A list of internal milestones up until project milestone 2
