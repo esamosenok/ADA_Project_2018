@@ -30,26 +30,26 @@ Based on the information above, we would like to explore the "Open Food Facts Da
 
 References/Sources
 
-*Ref1 Heathy Food: How much sugar is in that sauces ?
-https://www.healthyfoodguide.com.au/articles/2015/july/how-much-sugar-sauce
+- *Ref1 Heathy Food: How much sugar is in that sauces ?
+   https://www.healthyfoodguide.com.au/articles/2015/july/how-much-sugar-sauce
 
-*Ref2 Major Sources of Added Sugars in the American Diet
-https://www.ahajournals.org/doi/pdf/10.1161/circulationaha.109.192627
+- *Ref2 Major Sources of Added Sugars in the American Diet
+  https://www.ahajournals.org/doi/pdf/10.1161/circulationaha.109.192627
 
-*Ref3 Maximum amount of added sugars recommendation from the American Heart Association
-https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars
+- *Ref3 Maximum amount of added sugars recommendation from the American Heart Association
+  https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/added-sugars
 
-*Ref3 Relationship of Sugar to Population-Level Diabetes Prevalence
-https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0057873.g002
+- *Ref3 Relationship of Sugar to Population-Level Diabetes Prevalence
+  https://journals.plos.org/plosone/article/figure?id=10.1371/journal.pone.0057873.g002
 
-*Ref4 Major Sources of Added Sugars in the American Diet
-https://www.ahajournals.org/doi/pdf/10.1161/circulationaha.109.192627
+- *Ref4 Major Sources of Added Sugars in the American Diet
+  https://www.ahajournals.org/doi/pdf/10.1161/circulationaha.109.192627
 
-*Ref5 US Dietary guideleines 
-https://health.gov/dietaryguidelines/2015/guidelines/executive-summary/
+- *Ref5 US Dietary guideleines 
+  https://health.gov/dietaryguidelines/2015/guidelines/executive-summary/
 
-*Ref6 World Health Organization: Reduce sugars intake 
-http://www.who.int/mediacentre/news/releases/2015/sugar-guideline/en/
+- *Ref6 World Health Organization: Reduce sugars intake 
+  http://www.who.int/mediacentre/news/releases/2015/sugar-guideline/en/
 
 
 
