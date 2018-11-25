@@ -7,14 +7,14 @@ Many people consume too much sugar and even more than they realize. Some product
 
 Based on the "AHA Scientific Statement" (*Ref2), the major sources of added sugars are mainly coming form those Food Categories: regular soft drinks, sugars, candy, cakes, cookies, pies and fruit drinks, dairy desserts and milk products:
 
-Food categories	                                   Contribution to added sugar intake (% of total added sugar consumed)
-Regular soft drinks	                               33.0
-Sugars and candy	                               16.1
-Cakes, cookies, pies	                           12.9
-Fruit drinks (fruitades and fruit punch)	        9.7
-Dairy desserts and milk products 
-(ice cream sweetened yogurt, and sweetened milk)	8.6
-Other grains (cinnamon toast and honey-nut waffles)	5.8
+- Food categories	                                   Contribution to added sugar intake (% of total added sugar consumed)
+- Regular soft drinks	                               33.0
+- Sugars and candy	                               16.1
+- Cakes, cookies, pies	                           12.9
+- Fruit drinks (fruitades and fruit punch)	        9.7
+- Dairy desserts and milk products 
+  (ice cream sweetened yogurt, and sweetened milk)	8.6
+- Other grains (cinnamon toast and honey-nut waffles)	5.8
 
 From there, it's easy understandable that eating too much sugar is not healthy and can cause Weight Gain, increase the risk of Hear Disease, Diabetes (*Ref3) or even Cancer, ...
 
