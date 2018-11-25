@@ -1,6 +1,7 @@
 # Eat less sugar, you're sweet enough already
 __cs_team_beta_hw2__ Project
-http://htmlpreview.github.io/?https://github.com/esamosenok/ADA_Project_2018/blob/master/index.html
+http://openfoodfacts.funspirit.ch
+
 
 # Abstract
 Many people consume too much sugar and even more than they realize. Some products contain added or hidden sugar like Low-fat Yogurst, BBQ Sauce, ketchup or Fruit Juice. To put in perspective, some sauces may contains more than 50 per cent of sugar. (*Ref1)
