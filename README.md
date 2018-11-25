@@ -17,10 +17,14 @@ We will explore the dimensions/metrics above and relate some of those to each ot
 Open Food Facts database contains the information on food products from around the world. For each item, the database stores its generic name, quantity, type of packaging, brand, category, manufacturing or processing locations, countries and stores where the product is sold, list of ingredients, any traces. 
 https://world.openfoodfacts.org
 
-# A list of internal milestones up until project milestone 2
-1. Try both Spark and Pandas and choose the better option
-2. Explore the data (slice and dice) to have better ideas on what kind of detailed analysis we are mostly interested in
-3. Ideally, we would like to try to apply Machine Learning to analyze the images (CNN) and relate the same to some results obtained by statistical analysis of the data. This is not exactly clear on this stage how/if this could be done, so the next step is to check the feasibility of the approach.
+# A list of internal milestones up until project milestone 3
+The data was messier and more difficult to manage than we had initially thought. Many of our original ideas turned out infeasible and we have had to change our approach to things.
+
+Our current plan until  the third milestone the 15 December is as follows:
+* 25 to 28 November: Select three to five questions relating to sugar and health that we can answer with this data
+* 29 to 30 November: Select a platform for our story
+* 01 to 07 December: Answer the questions
+* 07 to 14 December: Finalize the story
 
 # Questions for TAa
 N/A
