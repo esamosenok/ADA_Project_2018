@@ -3,20 +3,54 @@
 <head>
   <title>cs_team_beta_hw2: Open Food Facts</title>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  
+    <script src="https://unpkg.com/scrollreveal/dist/scrollreveal.min.js"></script>
+    <script type="text/javascript" src="js/d3.min.js"></script>
+    <script>
+    (function() {
+        var config = {
+            viewFactor: 0.20,
+            duration: 2000,
+            reset: true,
+        }
+        window.sr = new ScrollReveal(config)
+    })()
+    </script>
+	
   <style>
-  footer {
+	footer {
       padding-top: 70px;
       padding-bottom: 70px;
       background-color: #2f2f2f; /* Black Gray */
       color: #fff;
 	  text-align: center;
-  }
+	  
+	}
+  
+	.reveal_left {
+		width: 90%;
+		}
+
+	.reveal_right {
+		width: 90%;
+		}
+
+	.reveal_left_alternate {
+		width: 90%;
+		background-color:whitesmoke;
+		}
+
+	.reveal_right_alternate {
+		width: 90%;
+		background-color:whitesmoke;
+		}
   </style>
+
+
 
 </head>
 <body>
@@ -195,19 +229,160 @@ Our current plan until  the third milestone the 15 December is as follows:
 		</p>
       </div>
   </div>
-</div>    
-	  
-	  
+
 	  
 	  
 
-<div></div>
+<!-------------------------------------------------------------------------------------------------------------------->	  
+<!-- Paragraph1 																									-->
+<!-------------------------------------------------------------------------------------------------------------------->
+<div>
+	<div id="paragraph1_title" class="container reveal_top">
+		<h2> Paragraph1 </h2>
+	</div>
 
+	<div id="paragraph1_content" class="row">	
+		<div class="container reveal_left">
+			<p>
+				<img class="picture" src="./images/ImageTopCreator.JPG" style="height:600px"/>					
+				left, left blablabla. 
+			</p>
+		</div>
+		
+		<div class="container reveal_right">
+			<p>
+				right. right.
+			</p>
+		</div>	
+	</div>
+</div>
+
+
+<!-------------------------------------------------------------------------------------------------------------------->	  
+<!-- Paragraph2 																									-->
+<!-------------------------------------------------------------------------------------------------------------------->
+<div style="background-color:whitesmoke;">
+	<div id="paragraph2_title" class="container reveal_top">
+		<h2> Paragraph2 </h2>
+	</div>
+
+	<div style="background-color:whitesmoke;">	
+		<div class="container reveal_left">
+			<p>
+				<img class="picture" src="./images/ImageTopCreator.JPG" style="height:600px"/>					
+				left, left blablabla. 
+			</p>
+		</div>
+		
+		<div class="container reveal_right">
+			<p>
+				right. right.
+			</p>
+		</div>	
+	</div>
+</div>
+
+<!-------------------------------------------------------------------------------------------------------------------->	  
+<!-- Paragraph3 																									-->
+<!-------------------------------------------------------------------------------------------------------------------->
+<div>
+	<div id="paragraph3_title" class="container reveal_top">
+		<h2> Paragraph3 </h2>
+	</div>
+
+	<div id="paragraph3_content" class="row">	
+		<div class="container reveal_left">
+			<p>
+				<img class="picture" src="./images/ImageTopCreator.JPG" style="height:600px"/>					
+				left, left blablabla. 
+			</p>
+		</div>
+		
+		<div class="container reveal_right">
+			<p>
+				right. right.
+			</p>
+		</div>	
+	</div>
+</div>
+
+
+<!-------------------------------------------------------------------------------------------------------------------->	  
+<!-- Paragraph4 																									-->
+<!-------------------------------------------------------------------------------------------------------------------->
+<div style="background-color:whitesmoke;">
+	<div id="paragraph4_title" class="container reveal_top">
+		<h2> Paragraph4 </h2>		
+	</div>
+
+	<div id="paragraph4_content" class="row">	
+		<div class="container reveal_left">
+			<p>
+				<img class="picture" src="./images/ImageTopCreator.JPG" style="height:400px"/>					
+			</p>
+		</div>
+		
+		<div class="container reveal_right">
+			<p>
+				right. right.
+			</p>
+		</div>	
+	</div>
+</div>
+
+
+<!-------------------------------------------------------------------------------------------------------------------->	  
+<!-- Paragraph5 																									-->
+<!-------------------------------------------------------------------------------------------------------------------->
+<div>
+	<div id="paragraph5_title" class="container reveal_top">
+		<h2> Paragraph5 </h2>
+	</div>
+
+	<div id="paragraph5_content" class="row">	
+		<div class="container reveal_left">
+			<p>
+				<img class="picture" src="./images/ImageTopCreator.JPG" style="width:400px"/>					
+				
+			</p>
+			<p>
+			left, left blablabla. 
+			</p>
+		</div>
+		
+		<div class="container reveal_right">
+			<p>
+				right. right.
+			</p>
+		</div>	
+	</div>
+</div>
+
+
+
+
+</div>
+<!-------------------------------------------------------------------------------------------------------------------->	  
+<!-- FOOTER		 																									-->
+<!-------------------------------------------------------------------------------------------------------------------->
 <footer>
 	<p>steve.rey@epfl.ch</p>
 	<p>yauheni.samasionak@epfl.ch</p>
 	<p>victor.wiklund@epfl.ch</p> 
 </footer>
 
+
+
+<!-------------------------------------------------------------------------------------------------------------------->	  
+<!-- Script																											-->
+<!-------------------------------------------------------------------------------------------------------------------->
+<script>
+    // JavaScript
+    window.sr = ScrollReveal();
+    sr.reveal('.reveal_left', { origin: 'left', distance: '200px' });
+    sr.reveal('.reveal_right', { origin: 'right', distance: '200px' });
+    sr.reveal('.reveal_top', { origin: 'top', distance: '200px' });
+</script>
+	
 </body>
 </html>
