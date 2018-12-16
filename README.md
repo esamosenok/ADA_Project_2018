@@ -75,3 +75,8 @@ Open Food Facts database contains the information on food products from around t
 * Ref7 World Health Organization: Reduce sugars intake
 
 Realised in the context of the course of EPFL Applied Data Analysis (CS-401) teached by Robert West. Jupyter Notebook/Sources could be founded here.
+
+# Links
+* Repo for Data Story: https://github.com/openfoodfacts2019/ADA (branch gh-pages)
+* Data Story: https://openfoodfacts2019.github.io/ADA/
+* Backup Data Story: http://openfoodfacts.funspirit.ch/)
