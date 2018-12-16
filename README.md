@@ -2,8 +2,10 @@
 __cs_team_beta__
 
 Please follow the link to view the website for the data story
+* Repo for Data Story: https://github.com/openfoodfacts2019/ADA (branch gh-pages)
+* Data Story: https://openfoodfacts2019.github.io/ADA/
+* Backup Data Story: http://openfoodfacts.funspirit.ch/
 
-http://openfoodfacts.funspirit.ch
 
 # Abstract
 Many people consume too much sugar, often even without realizing it. Is is not uncommon for products to contain added or hidden sugar, products such as low-fat yogurt, BBQ Sauce, ketchup or fruit juice. To put into perspective, some sauces may contains more than 50 per cent of sugar. (*Ref1) Based on the "AHA Scientific Statement" (*Ref2), the major sources of added sugars can be found in categories such as regular soft drinks, sugars, candy, cakes, cookies, pies and fruit drinks, dairy desserts and milk products:
