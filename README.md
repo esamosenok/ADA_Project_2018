@@ -8,7 +8,7 @@ http://openfoodfacts.funspirit.ch
 # Abstract
 Many people consume too much sugar, often even without realizing it. Is is not uncommon for products to contain added or hidden sugar, products such as low-fat yogurt, BBQ Sauce, ketchup or fruit juice. To put into perspective, some sauces may contains more than 50 per cent of sugar. (*Ref1) Based on the "AHA Scientific Statement" (*Ref2), the major sources of added sugars can be found in categories such as regular soft drinks, sugars, candy, cakes, cookies, pies and fruit drinks, dairy desserts and milk products:
 
-It's easy to consume too much sugar and the drawbacks are many. Oveconsumption can lead to obesity, increase the risk of heart disease, diabetes (*Ref3) and even cancer. With the abundance of sweets that add a great deal of sugar even when consuming little (see table below), this issue is bigger than ever.
+It's easy to consume too much sugar and the drawbacks are many. Overconsumption can lead to obesity, increase the risk of heart disease, diabetes (*Ref3) and even cancer. With the abundance of sweets that add a great deal of sugar even when consuming little (see table below), this issue is bigger than ever.
 
 | Food categories | Contribution to added sugar|
 | ------ | ------ |
@@ -52,7 +52,7 @@ We were originally very ambitous with our plans for what we would do with the da
 Given all the problems we encountered with the data we would recommend some caution when observing the results. After all, if the underlying data is flawed then so will the conclusions drawn from it.
 
 # Dataset
-Open Food Facts database contains the information on food products from around the world. For each item, the database stores its generic name, quantity, type of packaging, brand, category, manufacturing or processing locations, countries and stores where the product is sold, list of ingredients, ...
+Open Food Facts database contains the information on food products from around the world. For each item, the database stores its generic name, quantity, type of packaging, brand, category, manufacturing or processing locations, countries and stores where the product is sold, list of ingredients and more.
 
 *"The project was started by Stéphane Gigandet, creator of the food blogs portals Recettes de Cuisine (French) and Very Good Recipes, and various other collaborative and/or food-related projects (mostly in French, e.g. Manger Bloguer and Informations Nutritionnelles). Stéphane takes care in particular of the technical architecture of Open Food Facts, its development and the hosting of the site and its database."*
 
