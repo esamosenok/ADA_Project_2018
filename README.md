@@ -79,4 +79,4 @@ Realised in the context of the course of EPFL Applied Data Analysis (CS-401) tea
 # Links
 * Repo for Data Story: https://github.com/openfoodfacts2019/ADA (branch gh-pages)
 * Data Story: https://openfoodfacts2019.github.io/ADA/
-* Backup Data Story: http://openfoodfacts.funspirit.ch/)
+* Backup Data Story: http://openfoodfacts.funspirit.ch/
