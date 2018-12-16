@@ -53,7 +53,9 @@ Open Food Facts database contains the information on food products from around t
 
 # Contributions
 **Samasionak Yauheni:** Presentation and Poster
+
 **Steve Rey:** Website, Data exploration, Data cleaning, Data game
+
 **Victor Wiklund:** Data analysis
 
 # References/Sources
